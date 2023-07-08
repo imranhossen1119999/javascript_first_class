@@ -1,0 +1,7 @@
+/* Four Condition Apply
+If Condition
+Else Condition
+Else If Condition
+Switch Condition
+
+*/
